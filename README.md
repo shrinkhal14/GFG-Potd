@@ -7,3 +7,4 @@
 | 09/09/2024 | Sort 0's 1's and 2's              |
 | 10/09/2024 | Minimum Cost Of Ropes             |
 | 11/09/2024 | Middle of Linked List             |
+| 12/09/2024 | Mirror Tree                       |
