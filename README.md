@@ -13,3 +13,4 @@
 | 15/09/2024 | Binary Tree to DLL                |
 | 16/09/2024 | Longest Valid Parentheses         |
 | 17/09/2024 | Minimize the Heights              |
+| 18/09/2024 | Parethesis Checker                |
