@@ -1,0 +1,25 @@
+class Solve {
+    int[] findTwoElement(int arr[]) {
+        int n = arr.length;
+        
+        long expSum = (long) n * (n + 1) / 2;
+        long expSqSum = (long) n * (n + 1) * (2 * n + 1) / 6;
+        
+        long actSum = 0;
+        long actSqSum = 0;
+        for (int i = 0; i < n; i++) {
+            actSum += arr[i];
+            actSqSum += (long) arr[i] * arr[i];
+        }
+        
+        long d = expSum - actSum;                
+        long sqDiff = expSqSum - actSqSum; 
+        
+        long sumAB = sqDiff / d; 
+        
+        long A = (d + sumAB) / 2;  
+        long B = sumAB - A;           
+        
+        return new int[]{(int) B, (int) A}; 
+    }
+}
