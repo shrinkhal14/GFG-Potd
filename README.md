@@ -20,3 +20,4 @@
 | 22/09/2024 | Longest Prefix Suffix             |
 | 23/09/2024 | Missing and Repeating             |
 | 24/09/2024 | Smallest Window                   |
+| 25/09/2024 | Palindrome Linked List            |
