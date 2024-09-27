@@ -22,3 +22,4 @@
 | 24/09/2024 | Smallest Window                   |
 | 25/09/2024 | Palindrome Linked List            |
 | 26/09/2024 | Roof Top                          |
+| 27/09/2024 | K Sized Subarray Maximum          |
