@@ -24,3 +24,4 @@
 | 26/09/2024 | Roof Top                          |
 | 27/09/2024 | K Sized Subarray Maximum          |
 | 28/09/2024 | Minimal Cost                      |
+| 29/09/2024 | Total Count                       |
