@@ -25,4 +25,5 @@
 | 27/09/2024 | K Sized Subarray Maximum          |
 | 28/09/2024 | Minimal Cost                      |
 | 29/09/2024 | Total Count                       |
-\ 30/09/2024 | Merge Two BSTs                    |
+| 30/09/2024 | Merge Two BSTs                    |
+| 01/09/2024 | Multiply Linked Lists             |
