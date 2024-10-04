@@ -27,3 +27,4 @@
 | 29/09/2024 | Total Count                       |
 | 30/09/2024 | Merge Two BSTs                    |
 | 01/09/2024 | Multiply Linked Lists             |
+|04.10/2024  | Delete and Reverse in CLL         |
